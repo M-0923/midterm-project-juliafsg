@@ -1,0 +1,59 @@
+.menu {
+  font-size: 1.5em;
+  font-weight: 500;
+  justify-content: center;
+  padding: 0;
+  background-color: var(--dark-base-color);
+  position: relative;
+}
+
+.menu-options {
+  display: flex;
+}
+.menu a {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 0.6em 2.5em;
+}
+
+.menu a:hover {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+}
+
+.menu button {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .menu {
+    font-size: 1.5em;
+  }
+
+  .menu-options {
+    display: none;
+  }
+
+  .open-menu .menu-options {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 100%;
+    position: absolute;
+    background-color: var(--dark-base-color);
+    top: 52px;
+  }
+
+  .menu button {
+    display: flex;
+    align-items: center;
+    align-self: baseline;
+    background: none;
+    border: none;
+    padding: 0.6em;
+    font-size: 20px;
+    font-weight: 600;
+  }
+}

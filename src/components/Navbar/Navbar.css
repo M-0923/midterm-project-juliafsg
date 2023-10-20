@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5em;
+}
+
+.logo {
+  height: 6em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em white);
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  nav {
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+}

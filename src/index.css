@@ -1,0 +1,35 @@
+:root {
+  --base-color: #f8f8f8;
+  --logo-color: #aba58b;
+  --primary-color: #ffffff;
+  --secondary-color: #89846d;
+  --dark-base-color: #d8d6d6;
+
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: black;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  background-color: var(--base-color);
+
+  *:focus-visible {
+    outline-color: black !important;
+  }
+}
+a,
+input,
+button,
+p,
+h1,
+h2 {
+  font-family: "Glory", sans-serif;
+}
+
+body {
+  margin: 0;
+}
