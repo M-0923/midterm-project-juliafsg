@@ -6,9 +6,7 @@ import { BiBone, BiMenu } from "react-icons/bi";
 import { GiClothes } from "react-icons/gi";
 import { LuBedDouble } from "react-icons/lu";
 
-
-export function Menu() {
-
+export const Menu: React.FC = () => {
   const menuRef = useRef(null)
   const [openMenu, setOpenMenu] = useState(false)
 

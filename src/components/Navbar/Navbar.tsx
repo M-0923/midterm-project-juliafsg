@@ -3,8 +3,7 @@ import buddyLogo from '/buddy-full-logo.png'
 import './Navbar.css'
 import { Search } from "../Search/Search";
 
-export function Navbar() {
-
+export const Navbar: React.FC = () => {
   return (
     <nav>
       <a href="https://vitejs.dev" target="_blank">

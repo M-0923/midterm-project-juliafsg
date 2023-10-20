@@ -4,7 +4,7 @@ import { AiFillStar, AiOutlineStar } from "react-icons/ai";
 
 import { items } from '../../mocks/items.json'
 
-export function ItemsList() {
+export const ItemsList: React.FC = () => {
   return (
     <div className="list">
 
