@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "name": "Cat Wood bed",
+      "stars": 4,
+      "price": "$119.60",
+      "image": "https://www.catsbest.eu/wp-content/uploads/J54_1830-e1607947228119.jpg"
+    },
+    {
+      "name": "Cat Wood House",
+      "stars": 3,
+      "price": "$159.60",
+      "image": "https://i.etsystatic.com/18867442/r/il/f07089/2160080692/il_fullxfull.2160080692_pxp9.jpg"
+    },
+    {
+      "name": "Cat Green Sofa",
+      "stars": 4,
+      "price": "$189.90",
+      "image": "https://images.dwell.com/photos-6272473203005894656/6402691604922990592-large/the-feline-sofa-from-hiromatsu-furniture-can-be-purchased-directly-from-the-company-and-seen-on-display-at-the-tourism-center-in-okawa.jpg"
+    },
+    {
+      "name": "Dog Brown Collar",
+      "stars": 4,
+      "price": "$19.90",
+      "image": "https://assets.hermes.com/is/image/hermesproduct/etriviere-iii-dog-collar--800546EJ3O-worn-1-0-0-1000-1000_g.jpg"
+    },
+    {
+      "name": "Dog Gray Backpack",
+      "stars": 5,
+      "price": "$55.90",
+      "image": "https://i.etsystatic.com/35232087/r/il/f0f6a2/3842156769/il_1080xN.3842156769_r3ff.jpg"
+    },
+    {
+      "name": "Dog Treat",
+      "stars": 5,
+      "price": "$15.90",
+      "image": "https://tastythriftytimely.com/wp-content/uploads/2023/01/3-Ingredient-Dog-Treats-Featured.jpg"
+    },
+
+    {
+      "name": "Dog Colorful Toy",
+      "stars": 5,
+      "price": "$22.90",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/indoor-dog-toys-1587002073.jpg"
+    },
+
+    {
+      "name": "Cat Wig",
+      "stars": 5,
+      "price": "$15.90",
+      "image": "https://static.designboom.com/wp-content/uploads/2017/12/these-cat-hair-cat-hats-are-going-viral-not-to-be-mistaken-for-diors-FW17-beret-designboom-01.jpg"
+    },
+    {
+      "name": "Dog Halloween Costume",
+      "stars": 3,
+      "price": "$145.90",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fliving%2F2022-09%2Fdog-costumes%2Fdog-halloween-costume-pumpkins"
+    },
+    {
+      "name": "Cat Cardigan",
+      "stars": 5,
+      "price": "$245.90",
+      "image": "https://i.etsystatic.com/14366733/r/il/f057fe/3144133722/il_fullxfull.3144133722_snz0.jpg"
+    },
+    {
+      "name": "Cat Wood bed",
+      "stars": 4,
+      "price": "$119.60",
+      "image": "https://www.catsbest.eu/wp-content/uploads/J54_1830-e1607947228119.jpg"
+    },
+    {
+      "name": "Cat Wood House",
+      "stars": 3,
+      "price": "$159.60",
+      "image": "https://i.etsystatic.com/18867442/r/il/f07089/2160080692/il_fullxfull.2160080692_pxp9.jpg"
+    },
+    {
+      "name": "Cat Green Sofa",
+      "stars": 4,
+      "price": "$189.90",
+      "image": "https://images.dwell.com/photos-6272473203005894656/6402691604922990592-large/the-feline-sofa-from-hiromatsu-furniture-can-be-purchased-directly-from-the-company-and-seen-on-display-at-the-tourism-center-in-okawa.jpg"
+    },
+    {
+      "name": "Dog Brown Collar",
+      "stars": 4,
+      "price": "$19.90",
+      "image": "https://assets.hermes.com/is/image/hermesproduct/etriviere-iii-dog-collar--800546EJ3O-worn-1-0-0-1000-1000_g.jpg"
+    },
+    {
+      "name": "Dog Gray Backpack",
+      "stars": 5,
+      "price": "$55.90",
+      "image": "https://i.etsystatic.com/35232087/r/il/f0f6a2/3842156769/il_1080xN.3842156769_r3ff.jpg"
+    },
+    {
+      "name": "Dog Treat",
+      "stars": 5,
+      "price": "$15.90",
+      "image": "https://tastythriftytimely.com/wp-content/uploads/2023/01/3-Ingredient-Dog-Treats-Featured.jpg"
+    },
+
+    {
+      "name": "Dog Colorful Toy",
+      "stars": 5,
+      "price": "$22.90",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/indoor-dog-toys-1587002073.jpg"
+    },
+
+    {
+      "name": "Cat Wig",
+      "stars": 5,
+      "price": "$15.90",
+      "image": "https://static.designboom.com/wp-content/uploads/2017/12/these-cat-hair-cat-hats-are-going-viral-not-to-be-mistaken-for-diors-FW17-beret-designboom-01.jpg"
+    },
+    {
+      "name": "Dog Halloween Costume",
+      "stars": 3,
+      "price": "$145.90",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fliving%2F2022-09%2Fdog-costumes%2Fdog-halloween-costume-pumpkins"
+    },
+    {
+      "name": "Cat Cardigan",
+      "stars": 5,
+      "price": "$245.90",
+      "image": "https://i.etsystatic.com/14366733/r/il/f057fe/3144133722/il_fullxfull.3144133722_snz0.jpg"
+    },
+    {
+      "name": "Cat Wood bed",
+      "stars": 4,
+      "price": "$119.60",
+      "image": "https://www.catsbest.eu/wp-content/uploads/J54_1830-e1607947228119.jpg"
+    },
+    {
+      "name": "Cat Wood House",
+      "stars": 3,
+      "price": "$159.60",
+      "image": "https://i.etsystatic.com/18867442/r/il/f07089/2160080692/il_fullxfull.2160080692_pxp9.jpg"
+    },
+    {
+      "name": "Cat Green Sofa",
+      "stars": 4,
+      "price": "$189.90",
+      "image": "https://images.dwell.com/photos-6272473203005894656/6402691604922990592-large/the-feline-sofa-from-hiromatsu-furniture-can-be-purchased-directly-from-the-company-and-seen-on-display-at-the-tourism-center-in-okawa.jpg"
+    },
+    {
+      "name": "Dog Brown Collar",
+      "stars": 4,
+      "price": "$19.90",
+      "image": "https://assets.hermes.com/is/image/hermesproduct/etriviere-iii-dog-collar--800546EJ3O-worn-1-0-0-1000-1000_g.jpg"
+    },
+    {
+      "name": "Dog Gray Backpack",
+      "stars": 5,
+      "price": "$55.90",
+      "image": "https://i.etsystatic.com/35232087/r/il/f0f6a2/3842156769/il_1080xN.3842156769_r3ff.jpg"
+    },
+    {
+      "name": "Dog Treat",
+      "stars": 5,
+      "price": "$15.90",
+      "image": "https://tastythriftytimely.com/wp-content/uploads/2023/01/3-Ingredient-Dog-Treats-Featured.jpg"
+    },
+
+    {
+      "name": "Dog Colorful Toy",
+      "stars": 5,
+      "price": "$22.90",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/indoor-dog-toys-1587002073.jpg"
+    },
+
+    {
+      "name": "Cat Wig",
+      "stars": 5,
+      "price": "$15.90",
+      "image": "https://static.designboom.com/wp-content/uploads/2017/12/these-cat-hair-cat-hats-are-going-viral-not-to-be-mistaken-for-diors-FW17-beret-designboom-01.jpg"
+    },
+    {
+      "name": "Dog Halloween Costume",
+      "stars": 3,
+      "price": "$145.90",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fliving%2F2022-09%2Fdog-costumes%2Fdog-halloween-costume-pumpkins"
+    },
+    {
+      "name": "Cat Cardigan",
+      "stars": 5,
+      "price": "$245.90",
+      "image": "https://i.etsystatic.com/14366733/r/il/f057fe/3144133722/il_fullxfull.3144133722_snz0.jpg"
+    }
+  ]
+}
