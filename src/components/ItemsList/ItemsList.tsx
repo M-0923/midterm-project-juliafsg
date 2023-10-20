@@ -8,9 +8,9 @@ export const ItemsList: React.FC = () => {
   return (
     <div className="list">
 
-      {items.map(({ name, price, image, stars }) => {
+      {items.map(({ name, price, image, stars }, index) => {
         return (
-          <div key={`${name}`} className="card">
+          <div key={`${name}-${index}`} className="card">
             <img src={image} />
             <p>{name} </p>
             <div>
