@@ -30,7 +30,7 @@ export function Menu() {
   return (
     <nav ref={menuRef} className={openMenu ? "open-menu menu" : "menu"}>
       <button onClick={() => setOpenMenu((prev) => !prev)}><BiMenu /> Menu</button>
-      <div className="menu-options" >
+      <div className="menu-options" onClick={() => { alert('Not implemented yet! :)') }} >
         <a><BsEyeglasses />Acessories</a>
         <a><GiClothes /> Clothing </a>
         <a><LuBedDouble />Furniture</a>

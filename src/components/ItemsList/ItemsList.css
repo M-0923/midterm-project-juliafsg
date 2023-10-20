@@ -34,6 +34,7 @@
   gap: 10px;
   margin: 0;
 }
+
 .card button {
   padding: 0.5em;
   background-color: var(--secondary-color);
@@ -44,6 +45,11 @@
   cursor: pointer;
   width: -webkit-fill-available;
   font-weight: 600;
+}
+
+.card button:hover {
+  background-color: var(--dark-base-color);
+  color: black;
 }
 
 .button-container {

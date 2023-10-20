@@ -13,6 +13,7 @@ input {
   width: 100%;
   font-family: "Glory", sans-serif;
   font-size: 1.5em;
+  font-weight: 600;
   color: var(--primary-color);
 }
 
@@ -45,7 +46,6 @@ svg {
   input {
     font-size: 1.3em;
     padding: 10px;
-    font-weight: 600;
   }
 
   .search {

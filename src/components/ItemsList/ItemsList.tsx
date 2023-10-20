@@ -21,7 +21,7 @@ export function ItemsList() {
               {stars > 5 ? <AiFillStar /> : <AiOutlineStar />}
             </div>
             <p className="price">{price}</p>
-            <div className="button-container">
+            <div className="button-container" onClick={() => { alert('Not implemented yet! :)') }}>
               <button>Buy</button>
               <button className="see-button">See</button>
             </div>

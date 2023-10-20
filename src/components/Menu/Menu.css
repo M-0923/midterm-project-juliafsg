@@ -3,7 +3,7 @@
   font-weight: 500;
   justify-content: center;
   padding: 0;
-  background-color: #d8d6d6;
+  background-color: var(--dark-base-color);
   position: relative;
 }
 
@@ -20,6 +20,7 @@
 
 .menu a:hover {
   background-color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .menu button {
@@ -41,7 +42,7 @@
     position: absolute;
     width: 100%;
     position: absolute;
-    background-color: #d8d6d6;
+    background-color: var(--dark-base-color);
     top: 52px;
   }
 
